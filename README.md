@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apoorva-S-Natesh
 - 👀 I’m an Architect who has developed an interest in Coding
-- 🌱 I’m currently learning C, HTML, CSS, Javascript, Java and Sql
+- 🌱 I’m currently learning C, HTML, CSS, Javascript, Java, Sql, Manual testing
 - 💞️ I’m looking to collaborate on learning and coding challenges
 - 📫 How to reach me https://www.linkedin.com/in/apoorva-s-n/
 
